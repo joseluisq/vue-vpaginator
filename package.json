@@ -1,0 +1,31 @@
+{
+  "name": "vue-vpaginator",
+  "version": "0.0.0",
+  "description": "Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data.",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit"
+  },
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseluisq/vue-vpaginator.git"
+  },
+  "keywords": [
+    "vue",
+    "paginator",
+    "bootstrap",
+    "component",
+    "laravel",
+    "pagination",
+    "jquery"
+  ],
+  "author": "Jose Luis Quintana <https://git.io/joseluisq>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joseluisq/vue-vpaginator/issues"
+  },
+  "homepage": "https://github.com/joseluisq/vue-vpaginator#readme"
+}
