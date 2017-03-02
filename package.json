@@ -1,6 +1,6 @@
 {
   "name": "vue-vpaginator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data.",
   "main": "index.vue",
   "scripts": {
