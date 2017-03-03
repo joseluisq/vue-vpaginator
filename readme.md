@@ -29,7 +29,7 @@ In your custom component:
       ...
     </table>
 
-    <vpagination :response="myResponseData" @paginate="fetchMyServerData"></vpagination>
+    <vpaginator :response="myResponseData" @paginate="fetchMyServerData"></vpaginator>
 </template>
 
 <script>
